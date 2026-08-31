@@ -96,3 +96,7 @@ During the transformation phase:
 This SQL Data Warehouse project demonstrates the complete lifecycle of data handling—from extraction to analysis. It highlights the importance of structured data storage, efficient transformation, and meaningful analytics in supporting business decisions.
 
 The implementation ensures that data is accurate, consistent, and readily available for analytical purposes.
+<img width="554" height="328" alt="image" src="https://github.com/user-attachments/assets/76b9f0f9-683e-4be8-9b9a-0488e537a6cf" />
+
+
+
